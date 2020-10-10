@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "561944619418",
+    "firebase_url": "https://thu-duc-oto-e22ba.firebaseio.com",
+    "project_id": "thu-duc-oto-e22ba",
+    "storage_bucket": "thu-duc-oto-e22ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561944619418:android:0143ac17cb18e1df1ff223",
+        "android_client_info": {
+          "package_name": "com.sb.splashactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561944619418-9puluqkcfo9tbrenfror3rphbvee55ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzXcvgGku1DkZb45cNWp-VX9Pu_dsxI7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561944619418-9puluqkcfo9tbrenfror3rphbvee55ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
